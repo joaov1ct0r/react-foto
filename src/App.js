@@ -15,6 +15,7 @@ function App() {
             <Header></Header>
             <SectionSobre></SectionSobre>
             <SectionServicos></SectionServicos>
+            <section ClassName="portfolio"></section>
         </div>
     );
 }
