@@ -38,6 +38,7 @@ function App() {
                 </div>
                 <div>
                     <img src="../assets/img/site.png" alt="Navegador"></img>
+                    <h3>Melhores Práticas</h3>
                 </div>
             </section>
         </div>
