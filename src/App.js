@@ -21,6 +21,7 @@ function App() {
             <section className="contato">
                 <h2>Contato</h2>
                 <p>Entre em contato conosco.</p>
+                <div></div>
             </section>
         </div>
     );
