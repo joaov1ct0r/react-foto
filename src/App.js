@@ -22,6 +22,10 @@ function App() {
                     src="../assets/img/portfolio-2.jpeg"
                     alt="Sol no horizonte"
                 ></img>
+                <img
+                    src="../assets/img/portfolio-3.jpeg"
+                    alt="Pessoas á beira de vale"
+                ></img>
             </section>
         </div>
     );
