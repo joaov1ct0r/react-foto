@@ -14,6 +14,7 @@ function App() {
             <Nav></Nav>
             <Header></Header>
             <SectionSobre></SectionSobre>
+            <SectionServicos></SectionServicos>
         </div>
     );
 }
