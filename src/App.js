@@ -3,7 +3,15 @@ import './App.css';
 function App() {
     return (
         <div className="App">
-            <nav></nav>
+            <nav>
+                <a href="#">Lorem Ipsum</a>
+
+                <ul>
+                    <li>
+                        <a href="#sobre">Sobre</a>
+                    </li>
+                </ul>
+            </nav>
         </div>
     );
 }
