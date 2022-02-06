@@ -15,6 +15,9 @@ function App() {
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Debitis exercitationem officiis.
                 </p>
+                <button href="#contato" className="botao">
+                    Entre em contato
+                </button>
             </section>
         </div>
     );
