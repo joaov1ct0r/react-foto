@@ -16,6 +16,9 @@ function App() {
                     <li>
                         <a href="#portfolio">Portfólio</a>
                     </li>
+                    <li>
+                        <a href="#contato">Contato</a>
+                    </li>
                 </ul>
             </nav>
         </div>
