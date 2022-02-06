@@ -12,6 +12,7 @@ function App() {
             <Nav></Nav>
             <Header></Header>
             <SectionSobre></SectionSobre>
+            <section className="servicos"></section>
         </div>
     );
 }
