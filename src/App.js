@@ -45,6 +45,7 @@ function App() {
                 </div>
                 <div>
                     <img src="../assets/img/coracao.png" alt="Coração"></img>
+                    <h3>Feito com amor</h3>
                 </div>
             </section>
         </div>
