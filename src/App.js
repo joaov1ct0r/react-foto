@@ -12,7 +12,9 @@ function App() {
             <Nav></Nav>
             <Header></Header>
             <SectionSobre></SectionSobre>
-            <section className="servicos"></section>
+            <section className="servicos">
+                <h2>Serviços</h2>
+            </section>
         </div>
     );
 }
