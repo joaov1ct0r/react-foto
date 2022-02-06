@@ -18,6 +18,7 @@ function App() {
             <SectionSobre></SectionSobre>
             <SectionServicos></SectionServicos>
             <SectionPortfolio></SectionPortfolio>
+            <section className="contato"></section>
         </div>
     );
 }
