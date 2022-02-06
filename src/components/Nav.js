@@ -2,7 +2,7 @@ function Nav() {
     return (
         <div className="nav-bar">
             <nav>
-                <a href="#">Lorem Ipsum</a>
+                <a href="https://localhost:3000">Lorem Ipsum</a>
 
                 <ul>
                     <li>
