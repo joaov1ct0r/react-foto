@@ -36,6 +36,9 @@ function App() {
                         ar.
                     </p>
                 </div>
+                <div>
+                    <img src="../assets/img/site.png" alt="Navegador"></img>
+                </div>
             </section>
         </div>
     );
