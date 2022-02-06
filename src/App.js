@@ -31,6 +31,10 @@ function App() {
                         alt="Servidor"
                     ></img>
                     <h3>Hospedagem Moderna</h3>
+                    <p>
+                        Não deixe seus clientes na mão. Tenha seu site 24hrs no
+                        ar.
+                    </p>
                 </div>
             </section>
         </div>
