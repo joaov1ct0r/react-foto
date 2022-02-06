@@ -23,3 +23,5 @@ function SectionPortfolio() {
         </section>
     );
 }
+
+export default SectionPortfolio;
