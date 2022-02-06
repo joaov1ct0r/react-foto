@@ -25,6 +25,12 @@ function App() {
                         conteúdo.
                     </p>
                 </div>
+                <div>
+                    <img
+                        src="../assets/img/hospedagem.png"
+                        alt="Servidor"
+                    ></img>
+                </div>
             </section>
         </div>
     );
