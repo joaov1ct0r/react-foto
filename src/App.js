@@ -46,6 +46,7 @@ function App() {
                 <div>
                     <img src="../assets/img/coracao.png" alt="Coração"></img>
                     <h3>Feito com amor</h3>
+                    <p>É melhor fazer seus sites com amor hoje em dia!</p>
                 </div>
             </section>
         </div>
