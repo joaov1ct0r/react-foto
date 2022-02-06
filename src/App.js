@@ -10,6 +10,9 @@ function App() {
                     <li>
                         <a href="#sobre">Sobre</a>
                     </li>
+                    <li>
+                        <a href="#servicos">Serviços</a>
+                    </li>
                 </ul>
             </nav>
         </div>
