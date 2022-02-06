@@ -12,3 +12,5 @@ function SectionSobre() {
         </section>
     );
 }
+
+export default SectionSobre;
