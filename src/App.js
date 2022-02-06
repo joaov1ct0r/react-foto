@@ -20,6 +20,7 @@ function App() {
             <SectionSobre></SectionSobre>
             <SectionServicos></SectionServicos>
             <SectionPortfolio></SectionPortfolio>
+            <SectionContato></SectionContato>
         </div>
     );
 }
