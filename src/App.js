@@ -10,6 +10,8 @@ import SectionServicos from './components/SectionServicos';
 
 import SectionPortfolio from './components/SectionPortfolio';
 
+import SectionContato from './components/SectionContato';
+
 function App() {
     return (
         <div className="App">
