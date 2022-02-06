@@ -19,3 +19,5 @@ function SectionContato() {
         </section>
     );
 }
+
+export default SectionContato;
