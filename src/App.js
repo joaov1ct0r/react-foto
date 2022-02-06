@@ -17,6 +17,7 @@ function App() {
             <SectionServicos></SectionServicos>
             <section ClassName="portfolio">
                 <h2>Portfólio</h2>
+                <img src="../assets/img/portfolio-1.jpg" alt="cogumelos"></img>
             </section>
         </div>
     );
