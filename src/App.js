@@ -21,7 +21,9 @@ function App() {
             <section className="contato">
                 <h2>Contato</h2>
                 <p>Entre em contato conosco.</p>
-                <div></div>
+                <div>
+                    <img src="../assets/img/fone.png" alt="fone"></img>
+                </div>
             </section>
         </div>
     );
