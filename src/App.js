@@ -19,6 +19,7 @@ function App() {
                         src="../assets/img/configs.png"
                         alt="Engrenagens"
                     ></img>
+                    <h3>Fácil Integração</h3>
                 </div>
             </section>
         </div>
