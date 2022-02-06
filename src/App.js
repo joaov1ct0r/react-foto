@@ -11,6 +11,7 @@ function App() {
         <div className="App">
             <Nav></Nav>
             <Header></Header>
+            <SectionSobre></SectionSobre>
         </div>
     );
 }
