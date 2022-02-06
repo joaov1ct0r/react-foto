@@ -29,6 +29,10 @@ function App() {
                 </div>
                 <div>
                     <img src="../assets/img/contato.png" alt="email"></img>
+
+                    <p>
+                        <a href="mailto:email@contato.com">email@contato.com</a>
+                    </p>
                 </div>
             </section>
         </div>
