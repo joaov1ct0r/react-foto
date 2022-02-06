@@ -30,3 +30,5 @@ function SectionServicos() {
         </section>
     );
 }
+
+export default SectionServicos;
