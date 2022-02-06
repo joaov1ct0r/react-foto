@@ -1,6 +1,6 @@
 function Nav() {
     return (
-        <div className="nav-bar">
+        <div className="nav">
             <nav>
                 <a href="https://localhost:3000">Lorem Ipsum</a>
 
