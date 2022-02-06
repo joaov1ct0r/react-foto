@@ -20,6 +20,10 @@ function App() {
                         alt="Engrenagens"
                     ></img>
                     <h3>Fácil Integração</h3>
+                    <p>
+                        Integra facilmente seu site a qualquer gerenciador de
+                        conteúdo.
+                    </p>
                 </div>
             </section>
         </div>
