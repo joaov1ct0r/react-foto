@@ -14,6 +14,7 @@ function App() {
             <SectionSobre></SectionSobre>
             <section className="servicos">
                 <h2>Serviços</h2>
+                <div></div>
             </section>
         </div>
     );
