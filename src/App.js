@@ -18,6 +18,10 @@ function App() {
             <section ClassName="portfolio">
                 <h2>Portfólio</h2>
                 <img src="../assets/img/portfolio-1.jpg" alt="cogumelos"></img>
+                <img
+                    src="../assets/img/portfolio-2.jpeg"
+                    alt="Sol no horizonte"
+                ></img>
             </section>
         </div>
     );
