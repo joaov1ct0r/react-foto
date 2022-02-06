@@ -43,6 +43,9 @@ function App() {
                         Código legível, desenvolvido com as melhores práticas.
                     </p>
                 </div>
+                <div>
+                    <img src="../assets/img/coracao.png" alt="Coração"></img>
+                </div>
             </section>
         </div>
     );
