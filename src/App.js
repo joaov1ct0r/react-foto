@@ -18,7 +18,9 @@ function App() {
             <SectionSobre></SectionSobre>
             <SectionServicos></SectionServicos>
             <SectionPortfolio></SectionPortfolio>
-            <section className="contato"></section>
+            <section className="contato">
+                <h2>Contato</h2>
+            </section>
         </div>
     );
 }
