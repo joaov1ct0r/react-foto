@@ -30,6 +30,10 @@ function App() {
                     src="../assets/img/portfolio-4.jpg"
                     alt="Floresta nevada"
                 ></img>
+                <img
+                    src="../assets/img/portfolio-5.jpeg"
+                    alt="Praia deserta"
+                ></img>
             </section>
         </div>
     );
