@@ -14,7 +14,12 @@ function App() {
             <SectionSobre></SectionSobre>
             <section className="servicos">
                 <h2>Serviços</h2>
-                <div></div>
+                <div>
+                    <img
+                        src="../assets/img/configs.png"
+                        alt="Engrenagens"
+                    ></img>
+                </div>
             </section>
         </div>
     );
