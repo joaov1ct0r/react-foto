@@ -20,6 +20,7 @@ function App() {
             <SectionPortfolio></SectionPortfolio>
             <section className="contato">
                 <h2>Contato</h2>
+                <p>Entre em contato conosco.</p>
             </section>
         </div>
     );
