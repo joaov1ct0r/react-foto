@@ -9,6 +9,7 @@ function App() {
         <div className="App">
             <Nav></Nav>
             <Header></Header>
+            <section className="sobre"></section>
         </div>
     );
 }
