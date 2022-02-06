@@ -39,6 +39,9 @@ function App() {
                 <div>
                     <img src="../assets/img/site.png" alt="Navegador"></img>
                     <h3>Melhores Práticas</h3>
+                    <p>
+                        Código legível, desenvolvido com as melhores práticas.
+                    </p>
                 </div>
             </section>
         </div>
