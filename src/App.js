@@ -8,6 +8,8 @@ import SectionSobre from './components/SectionSobre';
 
 import SectionServicos from './components/SectionServicos';
 
+import SectionPortfolio from './components/SectionPortfolio';
+
 function App() {
     return (
         <div className="App">
