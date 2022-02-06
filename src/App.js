@@ -34,6 +34,10 @@ function App() {
                     src="../assets/img/portfolio-5.jpeg"
                     alt="Praia deserta"
                 ></img>
+                <img
+                    src="../assets/img/portfolio-6.jpeg"
+                    alt="Alce á beira do rio"
+                ></img>
             </section>
         </div>
     );
