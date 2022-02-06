@@ -30,6 +30,7 @@ function App() {
                         src="../assets/img/hospedagem.png"
                         alt="Servidor"
                     ></img>
+                    <h3>Hospedagem Moderna</h3>
                 </div>
             </section>
         </div>
