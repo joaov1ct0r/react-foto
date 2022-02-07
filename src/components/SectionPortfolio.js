@@ -18,7 +18,10 @@ function SectionPortfolio() {
                 src={require('../assets/img/portfolio-4.jpg')}
                 alt="Floresta nevada"
             ></img>
-            <img src="../assets/img/portfolio-5.jpeg" alt="Praia deserta"></img>
+            <img
+                src={require('../assets/img/portfolio-5.jpeg')}
+                alt="Praia deserta"
+            ></img>
             <img
                 src="../assets/img/portfolio-6.jpeg"
                 alt="Alce á beira do rio"
