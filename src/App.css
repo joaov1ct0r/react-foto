@@ -117,3 +117,7 @@ header p {
 .portfolio h2 {
     margin-bottom: 20px;
 }
+
+.portfolio img {
+    width: 100%;
+}
