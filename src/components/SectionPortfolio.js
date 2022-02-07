@@ -1,6 +1,6 @@
 function SectionPortfolio() {
     return (
-        <section ClassName="portfolio">
+        <section className="portfolio">
             <h2>Portfólio</h2>
             <img
                 src={require('../assets/img/portfolio-1.jpg')}
