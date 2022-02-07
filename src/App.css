@@ -106,3 +106,10 @@ header p {
     text-align: center;
     margin-top: 30px;
 }
+
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
