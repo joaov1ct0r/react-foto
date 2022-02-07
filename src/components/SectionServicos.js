@@ -14,7 +14,10 @@ function SectionServicos() {
                 </p>
             </div>
             <div>
-                <img src="../assets/img/hospedagem.png" alt="Servidor"></img>
+                <img
+                    src={require('../assets/img/hospedagem.png')}
+                    alt="Servidor"
+                ></img>
                 <h3>Hospedagem Moderna</h3>
                 <p>
                     Não deixe seus clientes na mão. Tenha seu site 24hrs no ar.
