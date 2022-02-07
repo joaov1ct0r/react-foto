@@ -67,3 +67,7 @@ header {
     text-align: center;
     padding: 20px;
 }
+
+header p {
+    margin-bottom: 2em;
+}
