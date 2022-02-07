@@ -3,7 +3,10 @@ function SectionServicos() {
         <section className="servicos">
             <h2>Serviços</h2>
             <div>
-                <img src="../assets/img/configs.png" alt="Engrenagens"></img>
+                <img
+                    src={require('../assets/img/configs.png')}
+                    alt="Engrenagens"
+                ></img>
                 <h3>Fácil Integração</h3>
                 <p>
                     Integra facilmente seu site a qualquer gerenciador de
