@@ -25,3 +25,10 @@ nav {
     align-items: center;
     background-color: #4d4d4d;
 }
+
+nav > a {
+    text-decoration: none;
+    color: #f1f1f1;
+    font-weight: 700;
+    font-size: 28px;
+}
