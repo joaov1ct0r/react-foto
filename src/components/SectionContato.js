@@ -10,7 +10,10 @@ function SectionContato() {
                 </p>
             </div>
             <div>
-                <img src="../assets/img/contato.png" alt="email"></img>
+                <img
+                    src={require('../assets/img/contato.png')}
+                    alt="email"
+                ></img>
 
                 <p>
                     <a href="mailto:email@contato.com">email@contato.com</a>
