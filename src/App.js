@@ -21,6 +21,7 @@ function App() {
             <SectionServicos></SectionServicos>
             <SectionPortfolio></SectionPortfolio>
             <SectionContato></SectionContato>
+            <footer></footer>
         </div>
     );
 }
