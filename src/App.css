@@ -41,3 +41,8 @@ nav ul {
     align-items: center;
     width: 100%;
 }
+
+nav ul li {
+    text-align: center;
+    width: 100%;
+}
