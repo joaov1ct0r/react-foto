@@ -7,7 +7,7 @@ function SectionPortfolio() {
                 alt="cogumelos"
             ></img>
             <img
-                src="../assets/img/portfolio-2.jpeg"
+                src={require('../assets/img/portfolio-2.jpeg')}
                 alt="Sol no horizonte"
             ></img>
             <img
