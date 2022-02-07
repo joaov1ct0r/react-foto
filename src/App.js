@@ -12,6 +12,8 @@ import SectionPortfolio from './components/SectionPortfolio';
 
 import SectionContato from './components/SectionContato';
 
+import Footer from './components/Footer';
+
 function App() {
     return (
         <div className="App">
