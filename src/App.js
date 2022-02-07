@@ -23,6 +23,7 @@ function App() {
             <SectionServicos></SectionServicos>
             <SectionPortfolio></SectionPortfolio>
             <SectionContato></SectionContato>
+            <Footer></Footer>
         </div>
     );
 }
