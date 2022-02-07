@@ -121,3 +121,11 @@ header p {
 .portfolio img {
     width: 100%;
 }
+
+.contato {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
