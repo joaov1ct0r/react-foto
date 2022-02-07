@@ -32,7 +32,10 @@ function SectionServicos() {
                 <p>Código legível, desenvolvido com as melhores práticas.</p>
             </div>
             <div>
-                <img src="../assets/img/coracao.png" alt="Coração"></img>
+                <img
+                    src={require('../assets/img/coracao.png')}
+                    alt="Coração"
+                ></img>
                 <h3>Feito com amor</h3>
                 <p>É melhor fazer seus sites com amor hoje em dia!</p>
             </div>
