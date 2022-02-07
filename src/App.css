@@ -9,3 +9,12 @@ h3 {
     margin: 0;
     font-weight: 700;
 }
+
+.botao {
+    color: #f1f1f1;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #8f3faf;
+    font-size: 0.9em;
+    border-radius: 3px;
+}
