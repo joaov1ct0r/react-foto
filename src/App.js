@@ -21,7 +21,9 @@ function App() {
             <SectionServicos></SectionServicos>
             <SectionPortfolio></SectionPortfolio>
             <SectionContato></SectionContato>
-            <footer></footer>
+            <footer>
+                <p>Desenvolvido por João Victor.</p>
+            </footer>
         </div>
     );
 }
