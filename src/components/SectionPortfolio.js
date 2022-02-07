@@ -11,7 +11,7 @@ function SectionPortfolio() {
                 alt="Sol no horizonte"
             ></img>
             <img
-                src="../assets/img/portfolio-3.jpeg"
+                src={require('../assets/img/portfolio-3.jpeg')}
                 alt="Pessoas á beira de vale"
             ></img>
             <img
