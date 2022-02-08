@@ -173,4 +173,10 @@ footer {
         text-align: center;
         width: 100%;
     }
+
+    .servicos div {
+        flex-grow: 1;
+        flex-basis: 150px;
+        padding: 0 10px;
+    }
 }
