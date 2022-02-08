@@ -1,6 +1,6 @@
 function SectionServicos() {
     return (
-        <section className="servicos">
+        <section id="servicos" className="servicos">
             <h2>Serviços</h2>
             <div>
                 <img
