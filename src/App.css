@@ -137,15 +137,25 @@ footer {
     color: #f1f1f1;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
     nav {
-        flex-direction: row;
-        justify-content: space-around;
+        align-items: center;
+        justify-content: space-evenly;
+        background-color: #4d4d4d;
+    }
+
+    nav > a {
+        font-size: 20px;
     }
 
     nav ul {
+        margin-right: 30px;
         flex-direction: row;
-        width: 70%;
+        width: 100%;
+    }
+
+    nav ul li {
+        margin: 5px;
     }
 
     header {

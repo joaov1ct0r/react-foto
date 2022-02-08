@@ -1,7 +1,7 @@
 function Nav() {
     return (
         <nav>
-            <a href="https://localhost:3000">Lorem Ipsum</a>
+            <a href="https://localhost:3000">Lorem</a>
 
             <ul>
                 <li>
