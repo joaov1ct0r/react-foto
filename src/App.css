@@ -136,3 +136,10 @@ footer {
     background-color: #4d4d4d;
     color: #f1f1f1;
 }
+
+@media screen and (min-width: 768px) {
+    nav {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
