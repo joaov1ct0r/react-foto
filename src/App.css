@@ -147,4 +147,10 @@ footer {
         flex-direction: row;
         width: 70%;
     }
+
+    header {
+        height: 600px;
+        height: 60vh;
+        justify-content: center;
+    }
 }
