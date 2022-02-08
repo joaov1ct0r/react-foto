@@ -160,4 +160,12 @@ footer {
         justify-content: center;
         min-height: 250px;
     }
+
+    .servicos {
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
 }
