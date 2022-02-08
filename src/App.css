@@ -193,4 +193,12 @@ footer {
     .portfolio img {
         width: 33.3%;
     }
+
+    .contato {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        max-width: 500px;
+        margin: 0 auto;
+    }
 }
