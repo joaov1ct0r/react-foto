@@ -184,4 +184,9 @@ footer {
         flex-direction: row;
         flex-wrap: wrap;
     }
+
+    .portfolio h2 {
+        width: 100%;
+        text-align: center;
+    }
 }
