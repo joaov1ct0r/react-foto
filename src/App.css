@@ -189,4 +189,8 @@ footer {
         width: 100%;
         text-align: center;
     }
+
+    .portfolio img {
+        width: 33.3%;
+    }
 }
