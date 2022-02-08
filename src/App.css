@@ -58,6 +58,11 @@ nav ul li a {
     color: #f1f1f1;
 }
 
+nav ul li a:hover {
+    color: #8f3faf;
+    transition: 1s;
+}
+
 header {
     background-image: url('./assets//img/fundo.jpg');
     background-size: cover;
