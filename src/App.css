@@ -153,4 +153,11 @@ footer {
         height: 60vh;
         justify-content: center;
     }
+
+    .sobre {
+        height: 250px;
+        height: 30vh;
+        justify-content: center;
+        min-height: 250px;
+    }
 }
