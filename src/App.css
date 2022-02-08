@@ -179,4 +179,9 @@ footer {
         flex-basis: 150px;
         padding: 0 10px;
     }
+
+    .portfolio {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
 }
