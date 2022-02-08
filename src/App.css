@@ -142,4 +142,9 @@ footer {
         flex-direction: row;
         justify-content: space-around;
     }
+
+    nav ul {
+        flex-direction: row;
+        width: 70%;
+    }
 }
