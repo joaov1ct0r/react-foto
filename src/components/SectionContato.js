@@ -1,6 +1,6 @@
 function SectionContato() {
     return (
-        <section className="contato">
+        <section id="contato" className="contato">
             <h2>Contato</h2>
             <p>Entre em contato conosco.</p>
             <div>
