@@ -114,9 +114,9 @@ header p {
 
 .portfolio {
     display: flex;
+    justify-content: flex-start;
     flex-flow: column wrap;
     align-items: center;
-    justify-content: flex-start;
     padding-top: 20px;
 }
 
@@ -125,7 +125,7 @@ header p {
 }
 
 .portfolio img {
-    width: 50%;
+    width: 25%;
 }
 
 .contato {
