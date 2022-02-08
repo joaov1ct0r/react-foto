@@ -168,4 +168,9 @@ footer {
         max-width: 1000px;
         margin: 0 auto;
     }
+
+    .servicos h2 {
+        text-align: center;
+        width: 100%;
+    }
 }
