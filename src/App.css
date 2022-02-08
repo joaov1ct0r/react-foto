@@ -201,4 +201,9 @@ footer {
         max-width: 500px;
         margin: 0 auto;
     }
+
+    .contato h2,
+    .contato p {
+        width: 100%;
+    }
 }
