@@ -38,3 +38,5 @@
 <p>A LANDING PAGE SERA ABERTA EM <code>http://localhost:3000</code></p>
 
 <h2>Picture</h2>
+
+![landingpage1](https://user-images.githubusercontent.com/79015823/153095455-edbb796e-6df3-49ca-a227-66114ef34182.jpg)
